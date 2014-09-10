@@ -1,0 +1,8 @@
+-bootstrap-
+sample pdfs/text
+laravel up
+pdf/text splitter
+text database (searching)
+
+
+Get multi-page pdf, and text. Split pdf, page per page.
